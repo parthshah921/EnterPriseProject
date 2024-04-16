@@ -41,56 +41,7 @@
       <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/org/example/apigateway/GatewayConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/org/example/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/ImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/ImageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/ImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/java/org/example/imagesservice/ImagesServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images-service/src/test/java/org/example/imagesservice/ImagesServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrderRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/OrdersServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/java/org/example/ordersservice/ProductServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders-service/src/test/java/org/example/ordersservice/OrdersServiceApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice/ProductsServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products-service/src/test/java/org/example/productsservice/ProductsServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +59,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2f9KfAvsqJZ117u8sxbZcf7F9YA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,35 +76,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.AdminServiceApplication.executor": "Run",
-    "Spring Boot.ImagesServiceApplication.executor": "Run",
-    "Spring Boot.OrdersServiceApplication.executor": "Run",
-    "Spring Boot.ProductsServiceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AdminServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ImagesServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.OrdersServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProductsServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/products-service/src/main/java/org/example/productsservice" />
@@ -237,6 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713207958354</updated>
       <workItem from="1713207959525" duration="17631000" />
+      <workItem from="1713239680989" duration="780000" />
     </task>
     <servers />
   </component>
