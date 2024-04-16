@@ -1,0 +1,73 @@
+/* OrderList.css */
+
+/* Styling the container */
+.order-list-container {
+    max-width: 800px;
+    margin: 20 auto;
+    padding: 20px;
+}
+
+/* Styling the table */
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.order-table th,
+.order-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.order-table th {
+    background-color: #f8f8f8;
+    font-weight: bold;
+}
+
+/* Styling the form */
+.add-order-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input {
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Styling the button */
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    /* Green background */
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
